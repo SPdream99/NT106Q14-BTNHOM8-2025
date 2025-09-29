@@ -1,7 +1,6 @@
 # BÀI 3 : Viết ứng dụng quản lý người dùng với tính năng đăng nhập, đăng ký
 
-> Tạo ứng dụng Windows Forms bằng C# với các tính năng đăng nhập và đăng ký
-người dùng, lưu trữ thông tin người dùng vào cơ sở dữ liệu SQL Server.
+> Tạo ứng dụng Windows Forms bằng C# với các tính năng đăng nhập và đăng ký người dùng, lưu trữ thông tin người dùng vào cơ sở dữ liệu SQL Server.
 
 ## Tính năng chính
 
