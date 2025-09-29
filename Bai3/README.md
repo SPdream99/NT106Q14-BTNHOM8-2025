@@ -21,4 +21,4 @@
 
 ## Tài liệu tham khảo
 
-*[Tài liệu C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
+* [Tài liệu C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
