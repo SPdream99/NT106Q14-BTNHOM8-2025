@@ -1,2 +1,11 @@
-# NT106Q14-BTNHOM8-2025
-Bài tập của nhóm 8 thuộc lớp NT106.Q14 2025
+# BÀI TẬP NHÓM 8
+
+## THÀNH VIÊN
+| Tên thành viên   |      MSSV      |
+|----------|:-------------:|
+| Nguyễn Nhật Anh |  24520112 |
+
+## MIÊU TẢ CÁC BÀI TẬP
+| Bài tập   |      Miêu tả      |      Link     |
+|----------|:-------------:|:-------------:|
+| Bài 3 |  24520112 | [Link](https://www.example.com) |
