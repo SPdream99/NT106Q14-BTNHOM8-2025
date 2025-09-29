@@ -16,4 +16,4 @@
 ## MIÊU TẢ CÁC BÀI TẬP
 | Bài tập |      Miêu tả      |        Đường dẫn      |
 |-------|:-----------------:|:-----------------------:|
-| Bài 3 |  Tạo ứng dụng Windows Forms bằng C# với các tính năng đăng nhập và đăng ký người dùng, lưu trữ thông tin người dùng vào cơ sở dữ liệu SQL Server. | [Link](https://github.com/SPdream99/NT106Q14-BTNHOM8-2025/tree/main/Bai3) |
+| Bài 3 |  Tạo ứng dụng Windows Forms bằng C# với các tính năng đăng nhập và đăng ký người dùng, lưu trữ thông tin người dùng vào cơ sở dữ liệu SQL Server. | [Link](https://github.com/SPdream99/NT106Q14-BTNHOM8-2025/tree/main/bai_tap/Bai3) |
