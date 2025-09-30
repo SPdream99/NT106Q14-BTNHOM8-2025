@@ -28,8 +28,8 @@
 
 #### Individual Components
 
-   * "SQL Server Express LocalDB": For local database development.
-   * "SQL Server Data Tools": For database project development and management within Visual Studio.
+   * "SQL Server Express LocalDB"
+   * "SQL Server Data Tools"
 
 ### 3. Tạo bản sao của repository NT106Q14-BTNHOM8-2025
 ```bash
