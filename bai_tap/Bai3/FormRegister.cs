@@ -20,10 +20,10 @@ namespace FormRegister
         {
             InitializeComponent();
         }
+        ////private string connectionString =
+        ////    ConfigurationManager.ConnectionStrings["UserDatabase"].ConnectionString;
         //private string connectionString =
-        //    ConfigurationManager.ConnectionStrings["UserDatabase"].ConnectionString;
-        private string connectionString =
-        @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\UserDatabase.mdf;Integrated Security=False";
+        //@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\UserDatabase.mdf;Integrated Security=False";
 
 
         public static string HashPassword(string password)
