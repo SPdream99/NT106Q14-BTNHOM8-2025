@@ -18,9 +18,9 @@
 
 ## Hướng dẫn cài đặt
 
-### Tải và cài đặt các phần mềm cần thiết
+### 1. Tải và cài đặt các phần mềm cần thiết
 
-### Cài đầy đủ thành phần cho VS2022
+### 2. Cài đầy đủ thành phần cho VS2022
 #### Workloads:
   
    * ".NET desktop development"
@@ -31,22 +31,22 @@
    * "SQL Server Express LocalDB": For local database development.
    * "SQL Server Data Tools": For database project development and management within Visual Studio.
 
-### Tạo bản sao của repository NT106Q14-BTNHOM8-2025
+### 3. Tạo bản sao của repository NT106Q14-BTNHOM8-2025
 ```bash
 git clone https://github.com/SPdream99/NT106Q14-BTNHOM8-2025/
 cd "NT106Q14-BTNHOM8-2025/bai_tap/Bai3"
 start Bai3.csproj
 ```
 
-### Tạo Server và Database
+### 4. Tạo Server và Database
 * Kết nối đến server "(localdb)\MSSQLLocalDB" bằng [SMMS](https://learn.microsoft.com/en-us/ssms/) hoặc bằng VS2022
 * Tạo Database bằng cách execute file "DatabaseConnection.sql"
 
-### Build và chạy Bai3
+### 5. Build và chạy Bai3
 * Set Bai3 thành Startup Project
 * Debug -> Start Debugging
 
-### Sử dụng ứng dụng
+### 6. Sử dụng ứng dụng
 * Đăng ký tài khoản Giáo Viên
 * Đăng nhập tài khoản Giáo Viên
 * Quản lý Sinh Viên
