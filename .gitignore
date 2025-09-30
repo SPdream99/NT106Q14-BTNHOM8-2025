@@ -55,3 +55,5 @@ nunit-*.xml
 /.vs
 /Bai3/.vs
 /bai_tap/.vs/bai_tap
+/bai_tap/Bai3/.vs
+/bai_tap/packages/System.Configuration.ConfigurationManager.9.0.9
