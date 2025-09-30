@@ -53,9 +53,9 @@ start Bai3.csproj
 
 ## Tài liệu tham khảo
 
-* [Tài liệu C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
-* [Tài liệu Winforms](https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/).
-* [Tài liệu SQL Server](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17).
+* [Tài liệu C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [Tài liệu Winforms](https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/)
+* [Tài liệu SQL Server](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)
 
 ## Credits
 ### Nhóm 8
