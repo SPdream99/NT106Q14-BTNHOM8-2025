@@ -22,14 +22,14 @@
 
 ### Cài đầy đủ thành phần cho VS2022
 #### Workloads:
-
-    * ".NET desktop development"
-    * "Data storage and processing" 
+  
+   * ".NET desktop development"
+   * "Data storage and processing" 
 
 #### Individual Components
 
-    * "SQL Server Express LocalDB": For local database development.
-    * "SQL Server Data Tools": For database project development and management within Visual Studio.
+   * "SQL Server Express LocalDB": For local database development.
+   * "SQL Server Data Tools": For database project development and management within Visual Studio.
 
 ### Tạo bản sao của repository NT106Q14-BTNHOM8-2025
 ```bash
