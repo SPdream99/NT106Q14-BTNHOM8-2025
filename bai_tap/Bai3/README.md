@@ -61,8 +61,8 @@ start Bai3.csproj
 ### Nhóm 8
 | Tên thành viên   |      MSSV      |
 |------------------|:--------------:|
+| Nguyễn Quang Thế Anh   |   24520115     |
 | Nguyễn Nhật Anh  |   24520112     |
 | Nguyễn Hoàng Anh  |   24520102     |
 | Phạm Phú Quang  |   24521478     |
 | Trần Minh Hoàng Quân  |   24521454     |
-| Nguyễn Quang Thế Anh   |   24520115     |
